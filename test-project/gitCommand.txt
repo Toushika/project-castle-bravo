@@ -1,0 +1,6 @@
+1. git init --> to initialite the git
+2. git add . --> to add all the file
+3. git commit -m "first commi" --> to commit  the changes
+4. git remote add origin "urls" --> for the first time
+5. git push origin develop
+
