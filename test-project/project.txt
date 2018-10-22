@@ -1,3 +1,4 @@
 1. pwd -- present working directory
 2. rm -rf xyz -- remove xyz file
 3. ls -- check whatever are in pwd
+4. touch filename -- create new file
